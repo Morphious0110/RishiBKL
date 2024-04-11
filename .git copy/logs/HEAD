@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 bf37d4d992c098cf210b902e1cde8e6fb5322a58 Vedant Sanap <vedantsanap123@gmail.com> 1711636213 +0530	clone: from https://github.com/prathmzz/ConnectAnimal.git
+bf37d4d992c098cf210b902e1cde8e6fb5322a58 b06b26339e464f6b6f282ca4d5d8466c76140394 Vedant Sanap <vedantsanap123@gmail.com> 1711637772 +0530	commit: signup changes
+b06b26339e464f6b6f282ca4d5d8466c76140394 b06b26339e464f6b6f282ca4d5d8466c76140394 Vedant Sanap <vedantsanap123@gmail.com> 1711637789 +0530	reset: moving to HEAD
+b06b26339e464f6b6f282ca4d5d8466c76140394 deba30e032f34b08a59a1afe4afa42f18b9fcda2 Vedant Sanap <vedantsanap123@gmail.com> 1711637897 +0530	commit (merge): Merge branch 'main' of https://github.com/prathmzz/ConnectAnimal
+deba30e032f34b08a59a1afe4afa42f18b9fcda2 00b6ac762dfba55c1125caa6562108bd14c4500f Vedant Sanap <vedantsanap123@gmail.com> 1711638829 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+00b6ac762dfba55c1125caa6562108bd14c4500f ec46008429fa9d8df5ea3d7ec801733d625ddfd3 Vedant Sanap <vedantsanap123@gmail.com> 1711640843 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+ec46008429fa9d8df5ea3d7ec801733d625ddfd3 a1bb1dcd01fb0f4e6d3123e40d061e61ddb185bc Vedant Sanap <vedantsanap123@gmail.com> 1711654838 +0530	commit: ADOPTION
+a1bb1dcd01fb0f4e6d3123e40d061e61ddb185bc 737aae0487ef013707622e79ae5392ce04b82afe Vedant Sanap <vedantsanap123@gmail.com> 1711782477 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+737aae0487ef013707622e79ae5392ce04b82afe 737aae0487ef013707622e79ae5392ce04b82afe Vedant Sanap <vedantsanap123@gmail.com> 1711790356 +0530	reset: moving to HEAD
+737aae0487ef013707622e79ae5392ce04b82afe 3fcae38e00b40ea75c9d27457d0903edd84ca952 Vedant Sanap <vedantsanap123@gmail.com> 1711790358 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+3fcae38e00b40ea75c9d27457d0903edd84ca952 3fcae38e00b40ea75c9d27457d0903edd84ca952 Vedant Sanap <vedantsanap123@gmail.com> 1711794221 +0530	reset: moving to HEAD
+3fcae38e00b40ea75c9d27457d0903edd84ca952 3ebf453b1b4a104b31b94877e56ff226175e0d7a Vedant Sanap <vedantsanap123@gmail.com> 1711794222 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+3ebf453b1b4a104b31b94877e56ff226175e0d7a 8986db3129a55b64e9d3d60c2bfe70b05dff35a0 Vedant Sanap <vedantsanap123@gmail.com> 1711794329 +0530	commit: Post Adoption and View Adoption
+8986db3129a55b64e9d3d60c2bfe70b05dff35a0 8986db3129a55b64e9d3d60c2bfe70b05dff35a0 Vedant Sanap <vedantsanap123@gmail.com> 1711802611 +0530	reset: moving to HEAD
+8986db3129a55b64e9d3d60c2bfe70b05dff35a0 3f415ae203f2014bbc20213191c95e5678f9e102 Vedant Sanap <vedantsanap123@gmail.com> 1711802613 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+3f415ae203f2014bbc20213191c95e5678f9e102 0542f6bac469ca8a61506c5765113e2232a2b0d9 Vedant Sanap <vedantsanap123@gmail.com> 1711808260 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+0542f6bac469ca8a61506c5765113e2232a2b0d9 63c290850002b0fd4f1daf9db588169adf7c2591 Vedant Sanap <vedantsanap123@gmail.com> 1711808864 +0530	commit: Donation DOne
+63c290850002b0fd4f1daf9db588169adf7c2591 851b62b16ddc738748b23f5a0ca3a75d6b083ed5 Vedant Sanap <vedantsanap123@gmail.com> 1711809645 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+851b62b16ddc738748b23f5a0ca3a75d6b083ed5 851b62b16ddc738748b23f5a0ca3a75d6b083ed5 Vedant Sanap <vedantsanap123@gmail.com> 1711812107 +0530	reset: moving to HEAD
+851b62b16ddc738748b23f5a0ca3a75d6b083ed5 8b771f8828a912d28f5aa43153c94ec9a1614bde Vedant Sanap <vedantsanap123@gmail.com> 1711812109 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+8b771f8828a912d28f5aa43153c94ec9a1614bde 8b771f8828a912d28f5aa43153c94ec9a1614bde Vedant Sanap <vedantsanap123@gmail.com> 1711908290 +0530	reset: moving to HEAD
+8b771f8828a912d28f5aa43153c94ec9a1614bde 715b47d577a93672c26b074610ee0e7de87b8ae4 Vedant Sanap <vedantsanap123@gmail.com> 1711908292 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+715b47d577a93672c26b074610ee0e7de87b8ae4 e5316534a2c306b288a23a53ea94cb9d6898bf10 Vedant Sanap <vedantsanap123@gmail.com> 1711908342 +0530	commit: IMAGE CHANGE
+e5316534a2c306b288a23a53ea94cb9d6898bf10 e5316534a2c306b288a23a53ea94cb9d6898bf10 Vedant Sanap <vedantsanap123@gmail.com> 1711911307 +0530	reset: moving to HEAD
+e5316534a2c306b288a23a53ea94cb9d6898bf10 74035aa4e6a7a95ecf7372d63e4a8c6c21126011 Vedant Sanap <vedantsanap123@gmail.com> 1711911309 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+74035aa4e6a7a95ecf7372d63e4a8c6c21126011 0e09b1a237c52255b251daf1827f5e2d4e1f3509 Vedant Sanap <vedantsanap123@gmail.com> 1711911323 +0530	commit: Dataset updated
+0e09b1a237c52255b251daf1827f5e2d4e1f3509 dd470e5476f4b405500788832bb267774bbc2fbd Vedant Sanap <vedantsanap123@gmail.com> 1711913001 +0530	commit: Final touches
+dd470e5476f4b405500788832bb267774bbc2fbd dd470e5476f4b405500788832bb267774bbc2fbd Vedant Sanap <vedantsanap123@gmail.com> 1712760685 +0530	reset: moving to HEAD
+dd470e5476f4b405500788832bb267774bbc2fbd 8d86c03fc28b939e54bded687cc2adc0d2e2c11c Vedant Sanap <vedantsanap123@gmail.com> 1712760686 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+8d86c03fc28b939e54bded687cc2adc0d2e2c11c c5d93430ba7e978c3dedd5e17fad983694c0dbd2 Vedant Sanap <vedantsanap123@gmail.com> 1712760747 +0530	commit: Updates
+c5d93430ba7e978c3dedd5e17fad983694c0dbd2 5938e789de7a0ef4e978c2852cded3d4b061ae8e Vedant Sanap <vedantsanap123@gmail.com> 1712761000 +0530	commit: Updates
+5938e789de7a0ef4e978c2852cded3d4b061ae8e 05e5fdb66bb76a8bdad9ad478368b357c9609658 Vedant Sanap <vedantsanap123@gmail.com> 1712836621 +0530	commit: New
